@@ -1,7 +1,7 @@
-# Sistem Perpustakaan
+# Library System Management
 
-Project final menggunakan PHP & MySQL.  
-Fitur: CRUD buku, login, denda keterlambatan, dll.
+Final Project for Database Design subject using PHP and MYSQL.  
+Features: CRUD books, login, late returning fine, admin panel, etc.
 
 🛠️ Tech stack: PHP, Bootstrap, MySQL
-📅 Dibuat: April 2025 | Upload ke GitHub: Juli 2025
+📅 Created: April 2025 | Uploaded to GitHub: July 2025
